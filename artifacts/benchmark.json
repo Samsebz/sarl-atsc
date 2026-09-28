@@ -1,0 +1,6 @@
+{
+  "low": {"fixed": {"wait": 3.1729166666666666, "throughput": 242.6, "override_rate": 0.45}, "random": {"wait": 3.96475, "throughput": 236.2, "override_rate": 0.6636666666666666}, "dqn": {"wait": 14.8135, "throughput": 126.5, "override_rate": 0.9613333333333334}},
+  "peak": {"fixed": {"wait": 6.744083333333333, "throughput": 559.6, "override_rate": 0.45}, "random": {"wait": 9.3115, "throughput": 537.4, "override_rate": 0.6743333333333333}, "dqn": {"wait": 37.65708333333333, "throughput": 265.7, "override_rate": 0.9796666666666667}},
+  "incident": {"fixed": {"wait": 5.346916666666667, "throughput": 428.8, "override_rate": 0.45}, "random": {"wait": 9.6725, "throughput": 396.4, "override_rate": 0.671}, "dqn": {"wait": 18.858833333333333, "throughput": 290.9, "override_rate": 0.9866666666666667}},
+  "festival": {"fixed": {"wait": 12.769916666666667, "throughput": 846.0, "override_rate": 0.45}, "random": {"wait": 18.41225, "throughput": 821.0, "override_rate": 0.6733333333333333}, "dqn": {"wait": 81.65625, "throughput": 234.4, "override_rate": 0.9906666666666667}}
+}
