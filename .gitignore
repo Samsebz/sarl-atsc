@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# ML artifacts
+artifacts/*.pt
+artifacts/*.pth
+artifacts/*.onnx
+artifacts/*.npy
+artifacts/*.mp4
+artifacts/*.avi
+artifacts/*.mov
+artifacts/yolo/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
